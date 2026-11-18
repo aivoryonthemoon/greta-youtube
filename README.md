@@ -1,8 +1,8 @@
 # Greta De Santi
 
-Sito: https://itsladysd.com
+Sito: https://aivoryonthemoon.github.io/greta-youtube/
 
-Dominio gestito su Cloudflare; hosting statico su GitHub Pages. DNS: quattro record A GitHub Pages sul dominio principale e CNAME www verso aivoryonthemoon.github.io. Il file source/public/CNAME conserva il dominio nelle build future.
+Versione separata senza dominio personalizzato. itsladysd.com appartiene al sito originale nel repository greta-de-santi.
 
 Landing responsive con Telegram come azione principale, quattro social, foto ingrandite localmente con Real-ESRGAN 4x e video YouTube.
 
